@@ -26,5 +26,11 @@ test('User should be Jai Yang Object', () => {
         firstName: 'Jai', 
         lastName:  'Yang'
 });
+
+test('Should be under 1600', () => ) {
+    expect(functions.)
+}
+
+
 })
 
