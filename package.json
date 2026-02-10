@@ -1,0 +1,24 @@
+{
+  "name": "ai-qa-automation",
+  "version": "1.0.0",
+  "description": "AI-assisted QA automation framework with Playwright, AWS S3 integration, and automated bug summarization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangj100/AI-QA-Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yangj100/AI-QA-Automation/issues"
+  },
+  "homepage": "https://github.com/yangj100/AI-QA-Automation#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
