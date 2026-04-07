@@ -120,3 +120,5 @@ Are article is so repeatative. It's stating the same facts over and over again.
 
 
 Different type of Testing.
+
+This article is going over the different type of testing.
