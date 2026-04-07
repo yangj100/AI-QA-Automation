@@ -57,3 +57,66 @@ Test Scenario = Idea of what to test.
 Test Case = Implementation of how to test that idea.
 
 So basically the beginning talks about how you have to be super super specifc about how its not working-- like the version and the browser.
+
+________________
+
+Working on: https://www.browserstack.com/guide/how-to-write-a-bug-report 
+
+Elements of an effective bug report includes:
+
+What the problem is.
+
+How can the developer reproduce the bug (to see it for themselves).
+
+Where in the software has the problem appeared.
+
+What is the environment (browser, device, ios) did the problem occur?
+
+
+Essential Parts of Bug Report:
+
+
+Title/Bug ID
+Environment
+Steps to reproduce a Bug
+Expected Result
+Actual Result
+Visual Proof (screenshots, videos, text) of Bug
+Severity/Priority
+
+
+Within them they have sub specifics that are helping like the version of the environment like their ios and connection strength to wifi etc.
+
+
+Here is a template to use if needed for in the future:
+
+Field	Details
+Title/Summary	[Clear and concise description of the bug]
+Description	[Detailed explanation of the issue and its impact]
+Steps to Reproduce	1. [Step 1]
+2. [Step 2]
+
+3. [Step 3]
+
+4. [Step 4]
+
+Expected Result	[Describe what should happen]
+Actual Result	[Describe what actually happens]
+Environment	Operating System: [e.g., Windows 10, macOS 14]
+Browser/App Version: [e.g., Chrome 93, App v3.2.1]
+
+Device: [e.g., Desktop, iPhone X]
+
+Severity	[Low / Medium / High / Critical]
+Priority	[Low / Medium / High / Urgent]
+Attachments	[Screenshots, logs, videos, or console output]
+
+
+Are article is so repeatative. It's stating the same facts over and over again.
+
+
+
+(Done)
+
+
+Different type of Testing.
