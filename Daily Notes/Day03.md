@@ -9,3 +9,10 @@ When doing the async testing using jest with axios: we need expect.assertions(1)
 Update it's still working so he was wrong but maybe hes looking at the return but update once again -- its still working correctly.
 
 Different assertion calls which makes it wrong. When we dont expect.assertions and it's name it 
+
+
+Working with different HTTP API Calls (Get requests) -- Using something called Axios which is basically a mock website or package for useres to study.
+
+The API end point is: https://jsonplaceholder.typicode.com/users/1
+
+When the code hits that URL, it's calling a REST API endpoint and it's saying give me user with ID = 1.
