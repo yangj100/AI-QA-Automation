@@ -5,3 +5,4 @@ test('has input box', async ({page}) => {
 
     await expect(page.getByRole('combobox', {name: 'Search'})).toBeVisible();
 })
+
